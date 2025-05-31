@@ -13,5 +13,7 @@
    ```bash
    docker compose up --build -d
    ```
-   
+
+   *create docker network first if you use the `docker-compose.yml` (in this case `my-network`)
+
 4. done, the backend is ready!
