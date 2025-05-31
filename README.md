@@ -7,4 +7,11 @@
    ```bash
    node index.js
    ```
+
+   or if you wanna use the docker-compose, use this command
+
+   ```bash
+   docker compose up --build -d
+   ```
+   
 4. done, the backend is ready!
