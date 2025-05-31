@@ -7,4 +7,4 @@
    ```bash
    node index.js
    ```
-4. done, your api is ready!
+4. done, the backend is ready!
